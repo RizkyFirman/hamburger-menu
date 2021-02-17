@@ -109,9 +109,8 @@ video {
         font-size: 1rem;
         display: flex;
         flex-direction: column;
-        justify-content: flex-end;
+        justify-content: center;
         align-items: center;
-        padding:2rem 2rem 5rem 2rem;
     }
 
     #open-btn {
